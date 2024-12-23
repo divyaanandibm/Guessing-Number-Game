@@ -1,0 +1,20 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Arial', sans-serif;
+}
+
+h1 {
+    color: #343a40;
+}
+
+button {
+    font-size: 1.25rem;
+}
+
+.modal-content {
+    border-radius: 0.5rem;
+}
+
+.invalid-feedback {
+    font-size: 0.875rem;
+}
